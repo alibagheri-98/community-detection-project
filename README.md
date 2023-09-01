@@ -1,0 +1,3 @@
+# community-detection-project
+
+Within this repository, you'll discover a project centered around the theme of "Graph Clustering Methods." Our approach involves employing community detection algorithms for effective clustering. The primary objective of this project is to showcase the practical applications of probability to students. Alongside this, participants will gain exposure to the realm of recommender systems. Notably, we crafted and executed this project during our tenure as teaching assistants for the probability course at Sharif University of Technology. I had the privilege of leading this initiative.
